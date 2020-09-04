@@ -1,7 +1,7 @@
 # Class Vector
 
 ## Description:
-This is an implemention of thewide used data structure Vector container, of the C++ STL.
+This is an implemention of the Vector container of the C++ STL, which is a wide used data structure.
 
 ## Getting Started
 
