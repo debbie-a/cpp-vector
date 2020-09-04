@@ -15,7 +15,7 @@ This is an implemention of the Vector container of the C++ STL, which is a wide 
 Run the following command in the Linux terminal:
 
 ```
-g++ main.cpp vector.cpp test_vactor.cpp
+g++ main.cpp vector.cpp test_vector.cpp
 ```
 
 
